@@ -48,7 +48,7 @@ class Game {
     //Add an if condition to check if allPlayers is not undefined
       
       background("#263238");
-      image(trackimg, 0, -displayHeight * 4, displayWidth, displayHeight * 5);
+      image(trackimg, 0, -height * 4, width, height * 5);
       
       //Create a for-in loop
 
